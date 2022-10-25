@@ -1,0 +1,32 @@
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\bin\Debug\Datos.dll
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\bin\Debug\Datos.pdb
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lab Robotica\Documents\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\bin\Debug\Negocio.dll
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\bin\Debug\Datos.dll
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\bin\Debug\Negocio.pdb
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\bin\Debug\Datos.pdb
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Users\Lab de Computacion\Desktop\AED_DATABASE-main\YOOO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
